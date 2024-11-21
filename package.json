@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pino": "^9.5.0",
+    "vitest": "^2.1.5"
+  }
 }
